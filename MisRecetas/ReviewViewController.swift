@@ -2,8 +2,8 @@
 //  ReviewViewController.swift
 //  MisRecetas
 //
-//  Created by José Manuel Muñoz Manzano on 14/8/17.
-//  Copyright © 2017 José Manuel Muñoz Manzano. All rights reserved.
+//  Created by José Manuel Muñoz Manzano on 31/8/17.
+//  Copyright © 2017 José Manuel Muñoz Manzano. All rights reserved...
 //
 
 import UIKit
